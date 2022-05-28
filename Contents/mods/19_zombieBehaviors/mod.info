@@ -1,0 +1,4 @@
+name=[19] Zombie Behaviors
+id=19_zombieBehaviors
+description=Implements a multitude of options to control zombie behavior in Sandbox Options. Produced in house by teamCandlelight; see AUTHORS.md.
+poster=poster.png

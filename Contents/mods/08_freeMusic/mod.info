@@ -1,0 +1,4 @@
+name=[08] freeMusic 
+id=08_freeMusic
+description=An open-source implementation of synchronously playing real-time music both in singleplayer and multiplayer. Produced in house by teamCandlelight; see AUTHORS.md.
+poster=poster.png

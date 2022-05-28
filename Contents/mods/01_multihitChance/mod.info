@@ -1,0 +1,4 @@
+name=[01] Multihit Chance
+id=01_multihitChance
+description=Multihit, when enabled, relies on a skill and strength-influenced chance per added zombie hit which also depends on weapon choice. Produced in house by teamCandlelight; see AUTHORS.md.
+poster=poster.png

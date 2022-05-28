@@ -1,0 +1,4 @@
+name=[02] Time and Player Reporter
+id=02_timeAndPlayerReporter
+description=Adds serverside logging of player count, time and weather for use with a Discord bot. Produced in house by teamCandlelight; see AUTHORS.md.
+poster=poster.png
