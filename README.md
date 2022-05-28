@@ -5,4 +5,4 @@ This modpack is globally licensed under the GPLv3. In order to use ANY PART of t
 
 To report bugs or issues, please open an issue in this Github. We do not guarantee warranty or support; we prioritize issues raised from within our own server.
 
-projectCandlelight (the modpack) is and always will be maintained by sunsetJadzia, the owner-operator of projectCandlelight.
+projectCandlelight (the modpack) is and always will be maintained by candlelightJadzia, the owner-operator of projectCandlelight (the server).
